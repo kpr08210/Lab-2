@@ -1,0 +1,30 @@
+header{
+font-size: 50px;
+text-align: center;
+padding-bottom: 50px;
+}
+body{
+	background-color: #06AB9C;
+	font-family: Tahoma;
+	text-align: center;
+}
+nav{
+	text-align: center;
+	color: #fff;
+	font-size:25px;
+	font-weight: bold;
+}
+main{
+	padding-top: 40px;
+}
+h1{
+	font-size: 15px;
+}
+#text{
+	font-size: 20px;
+	padding-left: 25px;
+}
+table{
+	width: 50%;
+	margin: auto;
+}
